@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidTicTacToe</string>
+    <string name="hello_world">Hello world!</string>
+</resources>
